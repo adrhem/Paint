@@ -1,0 +1,1 @@
+It was 6 years ago since I made this so be careful before compile the project. It depends of OpenGL so make sure you have the correct dll linked with our IDE.
